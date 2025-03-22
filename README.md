@@ -5,6 +5,6 @@ Este é apenas um repositório de teste para configuração e funcionalidades do
 Livre para uso pessoal irrestrito.
 
 ## Tecnologias utilizadas
--Java
--GitBash
--GitHub
+- Java
+- GitBash
+- GitHub
